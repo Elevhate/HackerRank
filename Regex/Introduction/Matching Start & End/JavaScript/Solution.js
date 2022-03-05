@@ -1,4 +1,4 @@
-var Regex_Pattern = /\w{3}\W\w{10}\W\w{3}/; //Do not delete '/'. Replace __________ with your regex.
+var Regex_Pattern = /^\d\w{4}\.$/; //Do not delete '/'. Replace __________ with your regex.
 
 function processData(Test_String) {
     //Enter your code here

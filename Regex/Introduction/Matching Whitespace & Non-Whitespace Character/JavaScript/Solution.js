@@ -1,4 +1,4 @@
-var Regex_Pattern = /\S\S\s\S\S\s\S\S/; //Do not delete '/'. Replace __________ with your regex.
+var Regex_Pattern = /(\S{2}\s){2}\S{2}/; //Do not delete '/'. Replace __________ with your regex.
 
 function processData(Test_String) {
     //Enter your code here
