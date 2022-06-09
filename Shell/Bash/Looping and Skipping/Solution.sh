@@ -2,12 +2,12 @@
 #           About          
 # =========================
 
-# Direct Link: https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem
+# Direct Link: https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
 # Difficulty: Easy
 # Max Score: 2
 
 # =========================
 
-for num in {1..50};
-    do echo $num;
-done;
+for i in {1..99..2}; do
+    echo $i
+done

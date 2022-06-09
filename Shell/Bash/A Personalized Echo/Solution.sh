@@ -6,6 +6,8 @@
 # Difficulty: Easy
 # Max Score: 1
 
+# =========================
+
 read name
 
 echo "Welcome $name"

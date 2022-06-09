@@ -6,6 +6,8 @@
 # Difficulty: Easy
 # Max Score: 3
 
+# =========================
+
 read x
 read y
 
