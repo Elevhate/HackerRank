@@ -2,10 +2,10 @@
 #           About          
 # =========================
 
-# Direct Link: https://www.hackerrank.com/challenges/text-processing-head-1/problem
-# Difficulty: Easy
+# Direct Link: https://www.hackerrank.com/challenges/paste-1/problem
+# Difficulty: Medium
 # Max Score: 2
 
 # =========================
 
-head -n 20
+paste -d';' -s

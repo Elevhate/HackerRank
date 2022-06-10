@@ -2,10 +2,10 @@
 #           About          
 # =========================
 
-# Direct Link: https://www.hackerrank.com/challenges/text-processing-head-1/problem
+# Direct Link: https://www.hackerrank.com/challenges/text-processing-sort-5/problem
 # Difficulty: Easy
-# Max Score: 2
+# Max Score: 1
 
 # =========================
 
-head -n 20
+sort -nrt$'\t' -k2

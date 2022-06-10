@@ -2,10 +2,10 @@
 #           About          
 # =========================
 
-# Direct Link: https://www.hackerrank.com/challenges/text-processing-head-1/problem
+# Direct Link: https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem
 # Difficulty: Easy
-# Max Score: 2
+# Max Score: 1
 
 # =========================
 
-head -n 20
+uniq -u
