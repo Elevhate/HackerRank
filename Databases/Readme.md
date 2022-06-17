@@ -1,0 +1,25 @@
+# Databases
+
+| Name |     Category    | Difficulty | Points | Problem | Solution |
+| :-------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------: |
+| Index Architecture Types | Indexes | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/indexes-1/problem) | [Solution](/Databases/Indexes/Index%20Architecture%20Types/Solution.txt) |
+| Indexes - 2 | Indexes | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/indexes-2/problem) | [Solution](/Databases/Indexes/Indexes%20-%202/Solution.txt) |
+| Indexes - 3 | Indexes | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/indexes-3/problem) | [Solution](/Databases/Indexes/Indexes%20-%203/Solution.txt) |
+| Indexes - 4 | Indexes | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/indexes-4/problem) | [Solution](/Databases/Indexes/Indexes%20-%204/Solution.txtt) |
+| Basics of Sets and Relations #1 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%231/Solution.txt) |
+| Basics of Sets and Relations #2 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-2/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%232/Solution.txt) |
+| Basics of Sets and Relations #3 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%233/Solution.txt) |
+| Basics of Sets and Relations #4 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-4/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%234/Solution.txt) |
+| Basics of Sets and Relations #5 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-5/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%235/Solution.txt) |
+| Basics of Sets and Relations #6 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-6/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%236/Solution.txt) |
+| Basics of Sets and Relations #7 | Relational Algebra | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-7/problem) | [Solution](/Databases/Relational%20Algebra/Basics%20of%20Sets%20and%20Relations%20%237/Solution.txt) |
+| Database Query Languages | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/database-query-languages/problem) | [Solution](/Databases/Relational%20Algebra/Database%20Query%20Languages/Solution.txt) |
+| Procedural Languag | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/procedural-language/problem) | [Solution](/Databases/Relational%20Algebra/Procedural%20Language/Solution.txt) |
+| Relational Algebra - 3 | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/relational-algebra-3/problem) | [Solution](/Databases/Relational%20Algebra/Relational%20Algebra%20-%203/Solution.txt) |
+| Relational Algebra - 4 | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/relational-algebra-4/problem) | [Solution](/Databases/Relational%20Algebra/Relational%20Algebra%20-%204/) |
+| Relations - 1 | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/relations-1/problem) | [Solution](/Databases/Relational%20Algebra/Relations%20-%201/Solution.txt/) |
+| Relations - 2 | Relational Algebra | Multiple Choice Question | 2 | [Problem](https://www.hackerrank.com/challenges/relations-2/problem) | [Solution](/Databases/Relational%20Algebra/Relations%20-%202/Solution.txt) |
+| Databases - Differences | Set and Algebra | Medium | 5 | [Problem](https://www.hackerrank.com/challenges/databases-differences/problem) | [Solution](/Databases) |
+| Databases - Natural Joins | Set and Algebra | Medium | 5 | [Problem](https://www.hackerrank.com/challenges/databases-natural-joins/problem) | [Solution](/Databases) |
+| Databases - Keys | Set and Algebra | Medium | 5 | [Problem](https://www.hackerrank.com/challenges/databases-keys/problem) | [Solution](/Databases) |
+| Databases - Relational Calculus | Set and Algebra | Medium | 5 | [Problem](https://www.hackerrank.com/challenges/databases-relational-calculus/problem) | [Solution](/Databases) |
