@@ -1,6 +1,6 @@
 <?php
 
-$Regex_Pattern = "/^[^\d][^aeiou][^bcDF][^\s][^AEIOU][^\.,]$/"; //Do not delete '/'. Replace __________ with your regex.
+$Regex_Pattern = "/o(?=oo)/"; //Do not delete '/'. Replace __________ with your regex.
 
 $handle = fopen ("php://stdin","r");
 $Test_String = fgets($handle);

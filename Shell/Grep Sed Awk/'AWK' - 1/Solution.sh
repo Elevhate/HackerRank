@@ -2,10 +2,13 @@
 #           About          
 # =========================
 
-# Direct Link: https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem
-# Difficulty: Easy
-# Max Score: 1
+# Direct Link: https://www.hackerrank.com/challenges/awk-1/problem
+# Difficulty: Medium
+# Max Score: 2
 
 # =========================
 
-paste -s
+awk '{
+    if ($2 == "" || $3 == "" || $4 == "")
+        print "Not all scores are available for", $1;
+}'
