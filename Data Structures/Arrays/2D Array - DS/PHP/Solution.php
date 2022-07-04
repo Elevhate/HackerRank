@@ -9,7 +9,7 @@
 
 function hourglassSum($arr) {
     $sumArray = [];
-
+    
     for ($i = 0; $i < count($arr); $i++) {
         for ($j = 0; $j < count($arr[$i]); $j++) {
             if (!($i + 3 > count($arr)) && !($j + 3 > count($arr))) {
