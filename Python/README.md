@@ -36,3 +36,11 @@
 | Math | Power - Mod Power | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](/Python/Math/Power%20-%20Mod%20Power/Solution.py) |
 | Math | Triangle Quest | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](/Python/Math/Triangle%20Quest/Solution.py) |
 | Math | Triangle Quest 2 | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](/Python/Math/Triangle%20Quest%202/Solution.py) |
+
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets/) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
