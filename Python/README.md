@@ -36,7 +36,9 @@
 | Math | Power - Mod Power | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](/Python/Math/Power%20-%20Mod%20Power/Solution.py) |
 | Math | Triangle Quest | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](/Python/Math/Triangle%20Quest/Solution.py) |
 | Math | Triangle Quest 2 | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](/Python/Math/Triangle%20Quest%202/Solution.py) |
-
+| Python Functionals | Map and Lambda Function | Easy | 20 | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](/Python/Python%20Functionals/Map%20and%20Lambda%20Function/Solution.py) |
+| Python Functionals | Reduce Function | Medium | 30 | [Problem](https://www.hackerrank.com/challenges/reduce-function/problem) | [Solution](/Python/Python%20Functionals/Reduce%20Function/Solution.py) |
+| Python Functionals | Validating Email Addresses With a Filter | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution](/Python/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter/Solution.py) |
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets/) |
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
