@@ -15,20 +15,13 @@
 | Introduction | Python If-Else | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](/Python/Introduction/Python%20If-Else/Solution.py) |
 | Introduction | Say "Hello, World!" With Python | Medium | 5 | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](/Python/Introduction/Say%20Hello%20World%20With%20Python/Solution.py) |
 | Introduction | Write a function | Medium | 10 | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](/Python/Introduction/Write%20a%20function/Solution.py) |
-| Strings | Alphabet Rangoli | Easy | 20 | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](/Python/Strings/Alphabet%20Rangoli/Solution.py) |
-| Strings | Capitalize! | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](/Python/Strings/Capitalize/Solution.py) |
-| Strings | Designer Door Mat | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](/Python/Strings/Designer%20Door%20Mat/Solution.py) |
-| Strings | Find a string | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](/Python/Strings/Find%20a%20String/Solution.py) |
-| Strings | Merge the Tools! | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](/Python/Strings/Merge%20the%20Tools/Solution.py) |
-| Strings | Mutations | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](/Python/Strings/Mutations/Solution.py) |
-| Strings | String Formatting | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](/Python/Strings/String%20Formatting/Solution.py) |
-| Strings | String Split and Join | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](/Python/Strings/String%20Split%20and%20Join/Solution.py) |
-| Strings | String Validators | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](/Python/Strings/String%20Validators/Solution.py) |
-| Strings | sWAP cASE | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](/Python/Strings/sWAP%20cASE/Solution.py) |
-| Strings | Text Alignment | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](/Python/Strings/Text%20Alignment/Solution.py) |
-| Strings | Text Wrap | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](/Python/Strings/Text%20Wrap/Solution.py) |
-| Strings | The Minion Game | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](/Python/Strings/The%20Minion%20Game/Solution.py) |
-| Strings | Whats Your Name | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](/Python/Strings/Whats%20Your%20Name/Solution.py) |
+| Itertools | Compress the String! | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true) | [Solution](/Python/Itertools/Compress%20the%20String!/Solution.py) |
+| Itertools | Iterables and Iterators | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem?isFullScreen=true) | [Solution](/Python/Itertools/Iterables%20and%20Iterators/Solution.py) |
+| Itertools | itertools.combinations | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true) | [Solution](/Python/Itertools/itertools.combinations/Solution.py) |
+| Itertools | itertools.combinations_with_replacement | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true) | [Solution](/Python/Itertools/itertools.combinations_with_replacement/Solution.py) |
+| Itertools | itertools.permutations | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true) | [Solution](/Python/Itertools/itertools.permutations/Solution.py) |
+| Itertools | itertools.product | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true) | [Solution](/Python/Itertools/itertools.product/Solution.py) |
+| Itertools | Maximize It! | Hard | 50 | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true) | [Solution](/Python/Itertools/Maximize%20It!/Solution.py) |
 | Math | Find Angle MBC | Medium | 10 | [Problem](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](/Python/Math/Find%20Angle%20MBC/Solution.py) |
 | Math | Integers Come In All Sizes | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](/Python/Math/Integers%20Come%20In%20All%20Sizes/Solution.py) |
 | Math | Mod Divmod | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](/Python/Math/Mod%20Divmod/Solution.py) |
@@ -46,3 +39,17 @@
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
 | Sets |  | Easy | 10 | [Problem]() | [Solution](/Python/Sets) |
+| Strings | Alphabet Rangoli | Easy | 20 | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](/Python/Strings/Alphabet%20Rangoli/Solution.py) |
+| Strings | Capitalize! | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](/Python/Strings/Capitalize/Solution.py) |
+| Strings | Designer Door Mat | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](/Python/Strings/Designer%20Door%20Mat/Solution.py) |
+| Strings | Find a string | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](/Python/Strings/Find%20a%20String/Solution.py) |
+| Strings | Merge the Tools! | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](/Python/Strings/Merge%20the%20Tools/Solution.py) |
+| Strings | Mutations | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](/Python/Strings/Mutations/Solution.py) |
+| Strings | String Formatting | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](/Python/Strings/String%20Formatting/Solution.py) |
+| Strings | String Split and Join | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](/Python/Strings/String%20Split%20and%20Join/Solution.py) |
+| Strings | String Validators | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](/Python/Strings/String%20Validators/Solution.py) |
+| Strings | sWAP cASE | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](/Python/Strings/sWAP%20cASE/Solution.py) |
+| Strings | Text Alignment | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](/Python/Strings/Text%20Alignment/Solution.py) |
+| Strings | Text Wrap | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](/Python/Strings/Text%20Wrap/Solution.py) |
+| Strings | The Minion Game | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](/Python/Strings/The%20Minion%20Game/Solution.py) |
+| Strings | Whats Your Name | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](/Python/Strings/Whats%20Your%20Name/Solution.py) |

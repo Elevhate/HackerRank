@@ -15,6 +15,38 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 [View Profile](https://www.hackerrank.com/Hypntc)
 
+<br></br>
+# C
+
+|     Category    | Name | Difficulty | Points | Problem | Solution |
+| :-------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------: |
+| Arrays and Strings | 1D Arrays in C | Medium | 10 | [Problem](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) | [Solution](/C/Arrays%20and%20Strings/1D%20Arrays%20in%20C/Solution.c) |
+| Arrays and Strings | Array Reversal | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true) | [Solution](/C/Arrays%20and%20Strings/Array%20Reversal/Solution.c) |
+| Arrays and Strings | Digit Frequency | Medium | 25 | [Problem](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem?isFullScreen=true) | [Solution](/C/Arrays%20and%20Strings/Digit%20Frequency/Solution.c) |
+| Arrays and Strings | Dynamic Array in C | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem?isFullScreen=true) | [Solution](/C/Arrays%20and%20Strings/Dynamic%20Array%20in%20C/Solution.c) |
+| Arrays and Strings | Printing Tokens | Medium | 20 | [Problem](https://www.hackerrank.com/challenges/printing-tokens-/problem?isFullScreen=true) | [Solution](/C/Arrays%20and%20Strings/Printing%20Tokens/Solution.c) |
+| Conditionals and Loops | Bitwise Operators | Easy | 15 | [Problem](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true) | [Solution](/C/Conditionals%20and%20Loops/Bitwise%20Operators/Solution.c) |
+| Conditionals and Loops | Conditional Statements in C | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true) | [Solution](/C/Conditionals%20and%20Loops/Conditional%20Statements%20in%20C/Solution.c) |
+| Conditionals and Loops | For Loop in C | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true) | [Solution](/C/Conditionals%20and%20Loops/For%20Loop%20in%20C/Solution.c) |
+| Conditionals and Loops | Printing Pattern Using Loops | Medium | 30 | [Problem](https://www.hackerrank.com/challenges/printing-pattern-2/problem?isFullScreen=true) | [Solution](/C/Conditionals%20and%20Loops/Printing%20Pattern%20Using%20Loops/Solution.c) |
+| Conditionals and Loops | Sum of Digits of a Five Digit Number | Easy | 15 | [Problem](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true) | [Solution](/C/Conditionals%20and%20Loops/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number/Solution.c) |
+| Functions | Calculate the Nth term | Easy | 15 | [Problem](https://www.hackerrank.com/challenges/recursion-in-c/problem?isFullScreen=true) | [Solution](/C/Functions/Calculate%20the%20Nth%20term/Solution.c) |
+| Functions | Permutations of Strings | Medium | 40 | [Problem](https://www.hackerrank.com/challenges/permutations-of-strings/problem?isFullScreen=true) | [Solution](/C/Functions/Permutations%20of%20Strings/Solution.c) |
+| Functions | Querying the Document | Hard | 60 | [Problem](https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true) | [Solution](/C/Functions/Querying%20the%20Document/Solution.c) |
+| Functions | Sorting Array of Strings | Hard | 40 | [Problem](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) | [Solution](/C/Functions/Sorting%20Array%20of%20Strings/Solution.c) |
+| Functions | Students Marks Sum | Easy | 20 | [Problem](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) | [Solution](/C/Functions/Students%20Marks%20Sum/Solution.c) |
+| Functions | Variadic functions in C | Medium | 50 | [Problem](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) | [Solution](/C/Functions/Variadic%20functions%20in%20C/Solution.c) |
+| Introduction | Functions in C | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true) | [Solution](/C/Introduction/Functions%20in%20C/Solution.c) |
+| Introduction | "Hello World!" in C | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) | [Solution](/C/Introduction/Hello%20World%20in%20C/Solution.c) |
+| Introduction | Playing With Characters | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true) | [Solution](/C/Introduction/Playing%20With%20Characters/Solution.c) |
+| Introduction | Pointers in C | Easy | 10 | [Problem](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true) | [Solution](/C/Introduction/Pointers%20in%20C/Solution.c) |
+| Introduction | Sum and Difference of Two Numbers | Easy | 5 | [Problem](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true) | [Solution](/C/Introduction/Sum%20and%20Difference%20of%20Two%20Numbers/Solution.c) |
+| Structs and Enums | Boxes through a Tunnel | Easy | 25 | [Problem](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) | [Solution](/C/Structs%20and%20Enums/Boxes%20through%20a%20Tunnel/Solution.c) |
+| Structs and Enums | Post Transition | Hard | 50 | [Problem](https://www.hackerrank.com/challenges/post-transition/problem?isFullScreen=true) | [Solution](/C/Structs%20and%20Enums/Post%20Transition/Solution.c) |
+| Structs and Enums | Small Triangles, Large Triangles | Medium | 30 | [Problem](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true) | [Solution](/C/Structs%20and%20Enums/Small%20Triangles%20Large%20Triangles/Solution.c) |
+| Structs and Enums | Structuring the Document | Hard | 60 | [Problem](https://www.hackerrank.com/challenges/structuring-the-document/problem?isFullScreen=true) | [Solution](/C/Structs%20and%20Enums/Structuring%20the%20Document/Solution.c) |
+<br></br>
+
 # Databases
 
 | Name |     Category    | Difficulty | Points | Problem | Solution |
